@@ -1,0 +1,5 @@
+{
+  "https_only": true,
+  "root": "public",
+  "canonical_host": "${HOST}"
+}
